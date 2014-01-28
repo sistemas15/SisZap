@@ -1,0 +1,4 @@
+Items a Considerar para el desarrollo de la Zapateria:
+	1.-Fecha estimada de Desarrollo : 1 mes
+	2.-Metodologia de trabajo: Programing Extrem 
+	3.-Cronograma de Desarrollo
